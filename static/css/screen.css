@@ -43,6 +43,11 @@ a:focus,
 a:hover {
   /*color: #178b6b;*/
 }
+
+p a {
+  text-decoration: underline;
+}
+
 p,
 li,
 dt,
@@ -289,7 +294,6 @@ img.userimage {
 }
 /* === Footer === */
 footer {
-  background: rgba(0, 0, 0, 0.05);
   margin: 4em 0 0;
   padding: 2em 0;
   text-align: center;
